@@ -1,1 +1,6 @@
 hello
+hi
+how are you
+welcome to great learning applicaion
+Enjoy teaching GITHUB commands
+
