@@ -1,3 +1,4 @@
+using clone command and pull command
 hello
 hi
 how are you
